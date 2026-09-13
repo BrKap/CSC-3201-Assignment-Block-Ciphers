@@ -5,7 +5,13 @@ installation
 ```bash
 pip install -r requirements.txt
 ```
+# Task 1
 Replace input.bmp with actual file to run.
 ```bash
-python encrypt_bmp.py input.bmp
+python task1.py input.bmp
+```
+
+# Task 2
+```bash
+python task2.py
 ```
